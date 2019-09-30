@@ -1,4 +1,6 @@
 # SWENG-Project-2019
+"The Turing Game" is a messaging app that attempts to gamify the Turing Test, making players guess if they are chatting with another human or an AI Chatbot.
+
 Repo for the group programming project of 2019 @ TCD  
 
 This repository contains:
